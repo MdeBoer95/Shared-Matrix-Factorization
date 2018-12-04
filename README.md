@@ -8,6 +8,6 @@ The corresponding optimization problem looks as follows:
 Minimize U, V, H   
 ![](opti.gif)
 
-Where the last term is added for regularization.
+Where the last term is added for regularization and *F* is the Frobenius norm 
 
 An SGD based update rule is used to iterativly compute the solution.
