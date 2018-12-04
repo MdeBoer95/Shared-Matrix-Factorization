@@ -10,4 +10,4 @@ Minimize U, V, H
 
 Where the last term is added for regularization and *F* is the Frobenius norm.  
 
-An SGD based update rule is used to iterativly compute the solution.
+An SGD based update rule is used to iteratively compute the solution.
